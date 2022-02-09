@@ -1,0 +1,3 @@
+    init_pt_name, destin_pt_name, init_pt, dest_pt
+"sample_pt_init_1", "sample_pt_dest_2", 5, 7
+"sample_pt_init_3", "sample_pt_dest_4", 5, 7
